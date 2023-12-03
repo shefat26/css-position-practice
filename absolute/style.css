@@ -1,0 +1,90 @@
+
+
+.main{
+
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px 20px;
+    height: 20vh;
+    position: relative ;
+}
+
+button{
+
+    padding: 15px;
+
+}
+
+.btn1{
+
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: purple;
+    color: white;
+}
+
+.btn2{
+
+    position: absolute;
+    
+    right: 0;
+    top:0;
+    background-color: aqua;
+    color: white;
+}
+
+.btn3{
+
+    position: absolute;
+    left: 0;
+    /* right: 0;
+    top: 0; */
+    bottom: 0;
+    background-color: blue;
+    color: white;
+}
+
+.btn4{
+
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background-color: green;
+}
+
+.btn5{
+
+    position: absolute;
+    left: 900px;
+    /* right: ; */
+    top: 100px;
+    background-color: chartreuse;
+    color: white;
+}
+.btn6{
+
+    position: absolute;
+    left: 500px;
+    /* right: ; */
+    top: 5px;
+    background-color: darkblue;
+    color: white;
+}
+.btn7{
+
+    position: absolute;
+    
+    right:300px ;
+    top: 50px;
+    background-color: lightblue;
+}
+.btn8{
+
+    position: absolute;
+    
+    right: 500px ;
+    bottom: 0px;
+    background-color: black;
+    color: white;
+}
