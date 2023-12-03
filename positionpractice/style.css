@@ -1,0 +1,61 @@
+
+
+.grand1{
+      
+    border: 1px solid black;
+    margin: 10px 20px;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+    background-color: antiquewhite;
+    /* width: 100%; */
+}
+
+.fixed{
+
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+button{
+
+    padding: 10px;
+    margin: 20px;
+    background-color: red;
+}
+
+a{
+
+    font-size: 40px;
+    color: green;
+}
+.grand2{
+      
+    border: 1px solid black;
+    margin: 10px 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+   
+   
+}
+
+
+p{
+
+    font-size: 40px;
+    line-height: 50px;
+}
+
+.image{
+
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    position: sticky;
+    top: 50px;
+    
+}
